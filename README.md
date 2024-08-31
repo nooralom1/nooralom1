@@ -1,6 +1,6 @@
-                                                                   🖤🖤Hi 👋, I'm MD NOOR-ALOM SIDDIKHi🖤🖤
+______________________________________________________________🖤🖤Hi 👋, I'm MD NOOR-ALOM SIDDIK🖤🖤__________________________________________________________________________
 
-                                                                           🖤App Developer (Flutter)🖤
+____________________________________________________________________🖤App Developer (Flutter)🖤________________________________________________________________________________
 
 
 Assalamu Alaikum Orahmatullah, my name is MD Noor-Alom Siddik. I am a flutter developer. I love coding. I live this work to establish and elevate myself. In Sha Allah one day I will be successful and develop myself honestly
