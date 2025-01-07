@@ -7,10 +7,10 @@ Assalamu Alaikum Orahmatullah, my name is MD Noor-Alom Siddik. I am a flutter de
 
 Skills: Dart/Flutter
 
-- 🔭 I’m currently working on Laundry Service App 
-- 🌱 I’m currently learning Dart Programming 
+- 🔭 I’m currently working in Softvance LTD. 
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Githubs 
-- 💬 Ask me about *App Developer*
+- 💬 Ask me about *Flutter App Development*
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
