@@ -7,10 +7,23 @@ Assalamu Alaikum Orahmatullah, my name is MD Noor-Alom Siddik. I am a flutter de
 
 Skills: Dart/Flutter
 
-- 🔭 I’m currently working in Softvance LTD. 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on Githubs 
-- 💬 Ask me about *Flutter App Development*
+🔭 I’m currently working on Flutter, Java, Python, Dart
+
+🌱 I’m currently learning MERN
+
+👯 I’m looking to collaborate on Flutter, Java
+
+🤝 I’m looking for help with Python, Java
+
+👨‍💻 All of my projects are available at VIEW WEBSITE
+
+💬 Ask me about flutter, dart
+
+📫 How to reach me ashiquer6364@gmail.com
+
+📄 Know about my experiences CLICK HERE
+
+⚡ Fun fact I think i am funny
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
