@@ -10,7 +10,7 @@ Skills: Dart/Flutter
 🔭 I’m currently working on Flutter,Dart
 
 🌱 I’m currently learning LARAVEL
-                                                                                                  ![gif4](https://github.com/user-attachments/assets/ce7ff4c3-32ca-46b1-b9c1-b22110a0dc17)
+
 👯 I’m looking to collaborate on Flutter, Dart
 
 🤝 I’m looking for help with PHP, Java
@@ -20,6 +20,11 @@ Skills: Dart/Flutter
 📫 How to reach me non377938@gmail.com
 
 ⚡ Fun fact I think i am funny
+
+
+![gif4](https://github.com/user-attachments/assets/ce7ff4c3-32ca-46b1-b9c1-b22110a0dc17)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
